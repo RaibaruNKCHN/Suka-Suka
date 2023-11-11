@@ -155,6 +155,7 @@ public class mainMenu{
         public void actionPerformed(ActionEvent event){
             GameScreen();
 
+            
         }
     }
 }
