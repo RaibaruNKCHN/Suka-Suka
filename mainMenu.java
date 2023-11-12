@@ -16,7 +16,7 @@ public class mainMenu{
     JFrame window;
     Container con;
     JPanel titleNamePanel, startButtonPanel, mainTextPanel, choiceButtonPanel, playerPanel;
-    JLabel titleNameLabel, startButtonLabel, hpLabel, hpLabelNumber, weaponLabel, weaponLabelName;
+    JLabel titleNameLabel, hpLabel, hpLabelNumber, weaponLabel, weaponLabelName;
     Font titleFont = new Font("Times New Roman", Font.PLAIN, 90); //size and family of font
     Font startFont = new Font("Times New Roman", Font.PLAIN, 35);
     JButton startButton,choice1,choice2,choice3,choice4;
